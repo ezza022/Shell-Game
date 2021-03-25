@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Shell-Game/static/css/main.1f760fbe.chunk.css",
-    "main.js": "/Shell-Game/static/js/main.b9d379d0.chunk.js",
-    "main.js.map": "/Shell-Game/static/js/main.b9d379d0.chunk.js.map",
+    "main.css": "/Shell-Game/static/css/main.670c1dae.chunk.css",
+    "main.js": "/Shell-Game/static/js/main.58220c05.chunk.js",
+    "main.js.map": "/Shell-Game/static/js/main.58220c05.chunk.js.map",
     "runtime-main.js": "/Shell-Game/static/js/runtime-main.568de2ad.js",
     "runtime-main.js.map": "/Shell-Game/static/js/runtime-main.568de2ad.js.map",
     "static/css/2.c33ee209.chunk.css": "/Shell-Game/static/css/2.c33ee209.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.9001f6e2.chunk.js.map": "/Shell-Game/static/js/3.9001f6e2.chunk.js.map",
     "index.html": "/Shell-Game/index.html",
     "static/css/2.c33ee209.chunk.css.map": "/Shell-Game/static/css/2.c33ee209.chunk.css.map",
-    "static/css/main.1f760fbe.chunk.css.map": "/Shell-Game/static/css/main.1f760fbe.chunk.css.map",
+    "static/css/main.670c1dae.chunk.css.map": "/Shell-Game/static/css/main.670c1dae.chunk.css.map",
     "static/js/2.aef61526.chunk.js.LICENSE.txt": "/Shell-Game/static/js/2.aef61526.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "/Shell-Game/static/media/slick.c94f7671.ttf"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.568de2ad.js",
     "static/css/2.c33ee209.chunk.css",
     "static/js/2.aef61526.chunk.js",
-    "static/css/main.1f760fbe.chunk.css",
-    "static/js/main.b9d379d0.chunk.js"
+    "static/css/main.670c1dae.chunk.css",
+    "static/js/main.58220c05.chunk.js"
   ]
 }
